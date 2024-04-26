@@ -1,0 +1,1 @@
+﻿reg add "HKCU\Software\Microsoft\OneDrive\Accounts\Business1" /v Timerautomount /t REG_QWORD /d 1 /f 
